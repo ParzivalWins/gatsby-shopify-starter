@@ -9,7 +9,7 @@
 
 Kick off your next eCommerce experience with this Gatsby starter. It is based on the default Gatsby starter to be easily modifiable. [Demo](https://gatsby-shopify-starter.netlify.com)
 
-This starter also includes credentials to a Shopify demo store so you can try it out immediately without having to start a store. To use your own just change the values inside of `.env`.
+This NEW starter also includes credentials to a Shopify demo store so you can try it out immediately without having to start a store. To use your own just change the values inside of `.env`.
 
 If you have questions feel free to message me on [Twitter](https://twitter.com/alexanderhorl) 🤙🏻
 
